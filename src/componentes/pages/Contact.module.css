@@ -1,0 +1,13 @@
+.contatos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 2px 2px 2px 1px;
+}

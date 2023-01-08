@@ -1,0 +1,34 @@
+.form{
+    display: flex;
+    /* background-color: aqua; */
+    background-image: radial-gradient(circle at 50% -6.91%, #4effff 0, #30ffff 16.67%, #12ffff 33.33%, #00ffff 50%, #0fe7ef 66.67%, #1ed1e0 83.33%, #2abfd2 100%);
+    padding: 70px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 1px black;
+    margin: 100px 0px 0px 500px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputs{
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 15px;
+}
+
+.bemvindo{
+    margin-bottom: 30px;
+    background-color: rgb(255, 193, 101);
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.button{
+    background-color: rgb(5, 255, 5);
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px rgb(56, 55, 55);
+}

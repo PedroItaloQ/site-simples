@@ -1,0 +1,22 @@
+.cadastro{
+    margin-top: 60px;
+    margin-left: 470px;
+    background-color: rgb(255, 255, 255);
+    padding: 60px;
+    box-shadow: 2px 2px 2px 1px rgb(99, 96, 96);
+}
+
+.inpu{
+    padding: 4px;
+    margin: 6px;
+}
+
+.button{
+        background-color: rgb(5, 255, 5);
+        margin-top: 10px;
+        margin-left: 150px;
+        font-size: 15px;
+        padding: 6px;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px 1px rgb(56, 55, 55);
+}

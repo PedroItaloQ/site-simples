@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    background-color: hsla(203, 100%, 95%, 0.089);
+    box-shadow: 2px 2px 2px 1px rgb(119, 111, 111);
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+.image {
+    height: 250px;
+    width: 500px;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+
+.fraseprincipal{
+    background-image: radial-gradient(circle at -6.91% 50%, #4effff 0, #30ffff 16.67%, #12ffff 33.33%, #00ffff 50%, #0fe7ef 66.67%, #1ed1e0 83.33%, #2abfd2 100%);
+    padding-right: 100px;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+}
+
+.frase {
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+
+
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
